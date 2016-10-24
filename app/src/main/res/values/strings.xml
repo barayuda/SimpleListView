@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">SimpleListView</string>
+    <string name="sort_asc" translatable="false">Sort Ascending</string>
+</resources>
